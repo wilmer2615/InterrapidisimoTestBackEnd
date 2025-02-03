@@ -1,0 +1,6 @@
+@Interrapidisimo_HostAddress = http://localhost:5274
+
+GET {{Interrapidisimo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
